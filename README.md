@@ -3,7 +3,7 @@ It seems I can't run python or any other "dynamic something-something" in a webp
 
 **So**, maybe we use javascript?
 
-<div="helo">hiya</div>
+<div id="helo"></div>
 
 <script>
   document.getElementById("helo").innerHTML = "Text added by JavaScript code";
