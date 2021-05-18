@@ -13,7 +13,7 @@ It seems I can't run python or any other "dynamic something-something" in a webp
   //document.getElementById("mebbe").innerHTML = "p";
   //readTextFile("file://C:\Users\Algor\Documents\Openpose\openpose-master\README.md");
   document.getElementById("one").innerHTML = "'lp";
-  //document.getElementById("mebbe").innerHTML = readTextFile("file://C:\Users\Algor\Documents\Openpose\openpose-master\README.md");
+  document.getElementById("mebbe").innerHTML = readTextFile("file://C:\Users\Algor\Documents\Openpose\openpose-master\README.md");
   //document.getElementById("mebbe").innerHTML = "'elp";
   //readTextFile("file://A_Close_keypoints.json");
   //document.getElementById("mebbe").innerHTML = "help";
