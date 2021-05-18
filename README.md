@@ -18,7 +18,7 @@ It seems I can't run python or any other "dynamic something-something" in a webp
   //document.getElementById("mebbe").innerHTML = readTextFile("file://A_Close_keypoints.json");
   
   
-  /*
+  
   function readTextFile(file)
   {
     var rawFile = new XMLHttpRequest();
@@ -36,7 +36,7 @@ It seems I can't run python or any other "dynamic something-something" in a webp
     }
     rawFile.send(null);
   }
-  */
+  
 </script>
 
 
