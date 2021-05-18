@@ -1,3 +1,15 @@
+## What happens if I try to access other stuff in here?
+It seems I can't run python or any other "dynamic something-something" in a webpage as it only serves static stuff
+
+**So**, maybe we use javascript?
+
+<div="helo">hiya</div>
+
+<script>
+  document.getElementById("helo").innerHTML = "Text added by JavaScript code";
+</script>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ethanosullivan-wip/Some_DanceDanceDoppelution_Testing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
